@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<head>
+	<title>Bruce Wayne</title>
+	<link type="text/css" rel="stylesheet" href="../CSS/mycss.css" />
+</head>
+
+<body class="b">
+<div class="headbox">
+	<h1>BRUCE WAYNE</h1>
+	<a href="">Batman@cerner.com</a><br/>
+	<img src="../images/bat.jpg" alt="Image broken" /> <br/>
+	<a href="https://en.wikipedia.org/wiki/Batman"><h6>Batman</h6></a>
+</div>
+
+<div class="addressbox1">
+	<p><h3 class="heads">Current Address:</h3>
+	<h5>Batcave <br/>
+	Below Ground<br/>
+	1007 Mountain Drive, Gotham</h5></p>
+</div>
+
+<div class="addressbox2">
+	<p><h3>Permanent Address:</h3>
+	<h5>Wayne Manor<br/>
+	1007 Mountain Drive, Gotham</h5></p>
+</div>
+
+<div class="education">
+	<p><h3>EDUCATION</h3>
+	<h5>AUG 2010-DEC 2010<br/><br/>
+	<a href="">Cambridge</a>, United Kingdom<br/><br/>
+	JAN 2014-MAY 2014<br/><br/>
+	<a href="">Sorbonne</a>, Paris, France<br/><br/></h5></p>
+</div>
+
+<div class="experience">
+<ul>
+	<p><h3>RELEVANT EXPERIENCE</h3>
+	<li><h5>JAN 2011-DEC 2011<br/><br/>
+	Martial Arts<br/>
+	Instructor- Kirigi<br/><br/>
+	Japan
+<ul>
+	<li>Ninjitsu</li>
+	<li>Reconnaissance</li>
+	<li>Stealth</li>
+	<li>Shotokan Karate</li>
+</ul></li>
+
+<li>JAN 2012-DEC 2012<br/><br/>
+Hunting 
+Instructor-Ghost Tribes of the Ten-Eyed Brotherhood<br/>
+Africa</li><br/>
+
+<li>JAN 2013-DEC 2013<br/></li>
+Boxing<br/>
+Instructor-Ted Grant<br/>
+Gotham<br/></h5></li>
+</div>
+
+<div class="table">
+<table class="table-fill">
+<thead><h3>ENEMY RATINGS</h3></thead>
+<tr>
+	<th>ALIAS</th>
+	<th>NAME</th>
+	<th>SKILL</th>
+</tr>
+
+<tr>
+	<td>Penguin</td>
+	<td>Oswald Cobblepot </td>
+	<td><img src="../images/three_skill.png"/></td>
+</tr>
+
+<tr>
+	<td>Mr. Freeze</td>
+	<td>Victor Fries </td>
+	<td><img src="../images/two_skill.png"/></td>
+</tr>
+
+<tr>
+	<td>Poison Ivy</td>
+	<td>Pamela Isley </td>
+	<td><img src="../images/two_skill.png"/></td>
+</tr>
+
+<tr>
+	<td>Catwoman</td>
+	<td>Selena Kyle</td>
+	<td><img src="../images/skilled.png"/></td>
+</tr>
+
+<tr>
+	<td>Joker</td>
+	<td>Unknown</td>
+	<td><img src="../images/skilled.png"/></td>
+</tr>
+
+<tr>
+	<td>Two-Face</td>
+	<td>Harvey Dent</td>
+	<td><img src="../images/two_skill.png"/></td>
+</tr>
+
+<tr>
+	<td>Riddler</td>
+	<td>Edward Nigma </td>
+	<td><img src="../images/one_skill.png"/></td>
+</tr>
+
+<tr>
+	<td>Scarecrow</td>
+	<td>Jonathan Crane</td>
+	<td><img src="../images/one_skill.png"/></td>
+</tr>
+</div>
+</table>
+</div>
+
+<div class="interests">
+<h3>PERSONAL INTERESTS IN ORDER OF TIME SPENT</h3>
+<p>
+<ul>
+	<li>Crime Fighting</li>
+	<li>Polishing Mask</li>
+	<li>Brooding</li>
+	<li>Talking in a Deep Voice</li>
+	<li>Bataranging things</li>
+	<li>Yoga</li>
+	<li>Arguing with Alfred</li>
+	<li>Meditation on the Evil that People Do</li>
+</ul>
+</p>
+</div>
+
+
+</p>
+
+</body>
+</html>
